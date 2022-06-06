@@ -2,7 +2,7 @@
 
 ### DISCLAIMER: 
 
-There seems to be an error when I am trying to solve the linear regression model. 
+There seems to be an error when I am trying to solve the linear regression model. Will be making a second attempt after going over the module once more. This was a hard concept!
 
 ## Linear Regression to Predict MPG
 
